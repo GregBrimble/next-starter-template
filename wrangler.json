@@ -11,5 +11,6 @@
   "observability": {
     "enabled": true
   },
+  "r2_buckets": [ { "binding": "FOO", "bucket_name": "my-bucket" } ],
   "upload_source_maps": true
 }
